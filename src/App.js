@@ -1,8 +1,10 @@
+import Counter from "./features/counterApp/Counter";
+
 function App() {
   return (
-    <div>
-      Hello world!
-    </div>
+    <>
+      <Counter />
+    </>
   );
 }
 
